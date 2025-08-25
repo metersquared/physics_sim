@@ -1,0 +1,15 @@
+pyproject.toml
+src/physics_sim/__init__.py
+src/physics_sim/__main__.py
+src/physics_sim/body.py
+src/physics_sim/field.py
+src/physics_sim/solver.py
+src/physics_sim/system.py
+src/physics_sim.egg-info/PKG-INFO
+src/physics_sim.egg-info/SOURCES.txt
+src/physics_sim.egg-info/dependency_links.txt
+src/physics_sim.egg-info/requires.txt
+src/physics_sim.egg-info/top_level.txt
+src/physics_sim/mechanics/__init__.py
+src/physics_sim/mechanics/body.py
+src/physics_sim/mechanics/field.py

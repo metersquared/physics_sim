@@ -1,0 +1,16 @@
+[project]
+name = "physics_sim"
+description = "physics_sim package"
+version = "0.0.1"
+authors = [
+    { name = "Arya Prasetya", email = "arya.prasetya1997@gmail.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

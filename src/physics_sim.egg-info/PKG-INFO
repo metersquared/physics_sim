@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: physics_sim
+Version: 0.0.1
+Summary: physics_sim package
+Author-email: Arya Prasetya <arya.prasetya1997@gmail.com>
+Requires-Python: >=3.10
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
