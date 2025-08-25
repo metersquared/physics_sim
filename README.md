@@ -33,7 +33,6 @@ Classes:
 
 Example of its usage are shown in the example directory.
 
-<figure class="video_container">
-  <iframe src="example/three_body_problem.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+Three-body proble with perturbed initial conditions:
+
+![hippo](example/three_body_problem.gif)

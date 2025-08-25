@@ -150,7 +150,7 @@ ani = anim.FuncAnimation(
 )
 
 fig.legend(loc="upper center", ncol=3, fontsize=10)
-writer = anim.FFMpegWriter(fps=frame_rate, metadata=dict(artist="Arya"), bitrate=1800)
-ani.save("three_body_problem.mp4", writer=writer)
+writer = anim.PillowWriter(fps=frame_rate)
+ani.save("three_body_problem.gif", writer=writer)
 
 # %%
